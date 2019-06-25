@@ -1,0 +1,16 @@
+What is Keylogger ?
+->Its a software to capture the keystrokes of the user.
+
+What is the use of Keylogger?
+-> 1.Employee monitering
+-> 2.To track the user intraction with the computer and gather valuable statistics.
+-> 3.Parental Control
+
+How is it different from present ?
+-> It sends the gmail based on the interval set by the admin.
+->
+
+
+How is it implemented ?
+->In python with smtplib ,keyboard module of pynput library,threading library.
+->
